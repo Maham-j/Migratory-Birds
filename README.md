@@ -38,6 +38,8 @@ The `migratoryBirds` function utilizes a counting mechanism to identify the most
 
 Contributions are welcome! If you have suggestions for improvements, optimizations, or additional features, please feel free to fork the repository, make your changes, and submit a pull request.
 
+Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started
+
 ## Find Us Online 🌐
 
 Discover more exciting coding projects on our [GitHub repository](https://github.com/Maham-j).
