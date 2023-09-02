@@ -54,6 +54,6 @@ This project is open-source and available under the GNU General Public License v
 
 ---
 
-Made with ❤️ by [Maham.J](https://github.com/yourusername)
+Made with ❤️ by [Maham.J](https://github.com/Maham-j)
 
 If you find this function helpful, show your support by giving it a ⭐️!
